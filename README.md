@@ -29,7 +29,7 @@ The original TAO dataset is described in:
 
 Our evaluation images and the corresponding binary masks used for evaluating the machine learning model outputs are available separately and can be accessed using the following Google Drive link:
 
-**Google Drive:** <https://drive.google.com/drive/folders/1GAVKWZqpX3NgFnGATJR440MpudkLl1c8?usp=sharing>
+$[**Google Drive:**] (https://drive.google.com/drive/folders/1GAVKWZqpX3NgFnGATJR440MpudkLl1c8?usp=sharing)
 
 The evaluation images and binary masks are provided for research and reproducibility purposes only.
 
