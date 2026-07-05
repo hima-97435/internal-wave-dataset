@@ -30,6 +30,7 @@ The original dataset is described in:
 Our evaluation images and the corresponding binary masks used for evaluating the machine learning model outputs are available separately and can be accessed using the following Google Drive link:
 
 **Google Drive:** [Evaluation Images and Binary Masks](https://drive.google.com/drive/folders/1GAVKWZqpX3NgFnGATJR440MpudkLl1c8?usp=sharing)
+
 The evaluation images and binary masks are provided for research and reproducibility purposes only.
 
 ## Repository Contents
